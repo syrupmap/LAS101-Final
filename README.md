@@ -1,4 +1,4 @@
-# LAS 101 Final Project: Design First Year Experience**
+# LAS 101 Final Project: Design First Year Experience
 
 https://syrupmap.github.io/LAS101-Final/
 
