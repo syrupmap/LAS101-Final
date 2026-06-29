@@ -12,6 +12,7 @@ Website made with html, css, js. Drawings made ob IBIS Paint X using the color p
 
 ## Built With
 - html/css
+- js
 
 ## Resources
 - https://www.youtube.com/watch?v=UgIwjLg4ONk
